@@ -4,8 +4,13 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+### MY Project overview
+![Overview](#overview)
+
+ This is a web design of Intro section with dropdown navigation challenge on frontend Mentor through the LITA 2024 cohort
+
+### The Challenge Give 
+![The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
